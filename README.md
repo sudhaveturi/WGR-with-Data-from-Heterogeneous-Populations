@@ -4,7 +4,7 @@
 1. [QC protocol](https://github.com/sudhaveturi/WGR-with-Data-from-Heterogeneous-Populations/blob/master/QC%20protocol.md) for MESA, BC, UIDS
 2. For MESA :
     * Perform QC and get final set of genotypes and phenotypes for stratified, across-cluster, and bi-cluster analyses
-    * Finalize [simulation protocol](https://github.com/sudhaveturi/WGR-with-Data-from-Heterogeneous-Populations/blob/master/SimulationProtocol.pdf) and run simulations
+    * Finalize [simulation protocol](https://github.com/sudhaveturi/WGR-with-Data-from-Heterogeneous-Populations/blob/master/SimulationProtocol_MESA.md.pdf) and run simulations
     * Run stratified, bi-cluster, and across-cluster analyses
 3. For BC and UIDS:
     * Merge genotypes form two different genotyping platforms
