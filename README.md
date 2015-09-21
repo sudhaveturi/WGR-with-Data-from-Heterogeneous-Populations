@@ -5,3 +5,4 @@
 2. Perform QC and get final set of genotypes and phenotypes 
 3. Finalize [simulation protocol](https://github.com/sudhaveturi/WGR-with-Data-from-Heterogeneous-Populations/blob/master/SimulationProtocol_MESA.md.pdf) and run simulations
 3. Perform all analyses with GWAS-significant SNPs only with varying -logP-value cutoffs for three phenotypes that have varying heritabilities: Height, HDL and LDL
+4. Perform analyses with the fully available marker dataset and compare race-specific heritability estimates and marker-effect correlations
